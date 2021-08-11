@@ -1,0 +1,13 @@
+C:\Users\n\source\repos\20210810\Exercise 14\bin\Debug\netcoreapp3.1\Exercise 14.exe
+C:\Users\n\source\repos\20210810\Exercise 14\bin\Debug\netcoreapp3.1\Exercise 14.deps.json
+C:\Users\n\source\repos\20210810\Exercise 14\bin\Debug\netcoreapp3.1\Exercise 14.runtimeconfig.json
+C:\Users\n\source\repos\20210810\Exercise 14\bin\Debug\netcoreapp3.1\Exercise 14.runtimeconfig.dev.json
+C:\Users\n\source\repos\20210810\Exercise 14\bin\Debug\netcoreapp3.1\Exercise 14.dll
+C:\Users\n\source\repos\20210810\Exercise 14\bin\Debug\netcoreapp3.1\Exercise 14.pdb
+C:\Users\n\source\repos\20210810\Exercise 14\obj\Debug\netcoreapp3.1\Exercise 14.csproj.AssemblyReference.cache
+C:\Users\n\source\repos\20210810\Exercise 14\obj\Debug\netcoreapp3.1\Exercise 14.AssemblyInfoInputs.cache
+C:\Users\n\source\repos\20210810\Exercise 14\obj\Debug\netcoreapp3.1\Exercise 14.AssemblyInfo.cs
+C:\Users\n\source\repos\20210810\Exercise 14\obj\Debug\netcoreapp3.1\Exercise 14.csproj.CoreCompileInputs.cache
+C:\Users\n\source\repos\20210810\Exercise 14\obj\Debug\netcoreapp3.1\Exercise 14.dll
+C:\Users\n\source\repos\20210810\Exercise 14\obj\Debug\netcoreapp3.1\Exercise 14.pdb
+C:\Users\n\source\repos\20210810\Exercise 14\obj\Debug\netcoreapp3.1\Exercise 14.genruntimeconfig.cache
